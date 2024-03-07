@@ -1,0 +1,10 @@
+.hover {
+    color: transparent;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+.hover:hover {
+    background-color: rgb(2, 2, 204);
+    cursor: pointer;
+}
